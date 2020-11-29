@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript Jest Testing Bomb Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+定义一个测试炸弹作为placeholder，只有事先设置好的属性可以正常访问，其它预期之外的属性被访问时，会抛出error
 
 ```
 npm install
